@@ -20,7 +20,7 @@ namespace PropuestoBSW.Core
         private static bool _logError;
         private static bool LogToDatabase;
         private bool _initialized;
-
+        //
         public CurrentJobLogger(bool logToFile, bool logToConsole, bool logToDatabase, bool logMessage, bool logWarning, bool logError)
         {
             _logError = logError;
