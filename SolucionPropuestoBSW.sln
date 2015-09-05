@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropuestoBSW.Core", "PropuestoBSW.Core\PropuestoBSW.Core.csproj", "{66FDE645-BC19-4CF5-9719-6595EB77129D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropuestoBSW.Tests", "PropuestoBSW.Tests\PropuestoBSW.Tests.csproj", "{B8ACA61A-F292-45DD-8BE6-EC60E3342490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FDE645-BC19-4CF5-9719-6595EB77129D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FDE645-BC19-4CF5-9719-6595EB77129D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FDE645-BC19-4CF5-9719-6595EB77129D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FDE645-BC19-4CF5-9719-6595EB77129D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8ACA61A-F292-45DD-8BE6-EC60E3342490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8ACA61A-F292-45DD-8BE6-EC60E3342490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8ACA61A-F292-45DD-8BE6-EC60E3342490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8ACA61A-F292-45DD-8BE6-EC60E3342490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
