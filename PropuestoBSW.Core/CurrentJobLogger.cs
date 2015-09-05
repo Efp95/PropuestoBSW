@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace PropuestoBSW.Core
 {
+    //
     // Class from PDF
     // Comments added to avoid error compilation
+    //
     public class CurrentJobLogger
     {
 
