@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropuestoBSW.Core", "PropuestoBSW.Core\PropuestoBSW.Core.csproj", "{9BC2CDB2-A9C3-462E-89B7-0062FFE8EAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropuestoBSW.Tests", "PropuestoBSW.Tests\PropuestoBSW.Tests.csproj", "{B2375DDD-0FA8-413B-BBEC-B84346459B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC2CDB2-A9C3-462E-89B7-0062FFE8EAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC2CDB2-A9C3-462E-89B7-0062FFE8EAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC2CDB2-A9C3-462E-89B7-0062FFE8EAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC2CDB2-A9C3-462E-89B7-0062FFE8EAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2375DDD-0FA8-413B-BBEC-B84346459B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2375DDD-0FA8-413B-BBEC-B84346459B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2375DDD-0FA8-413B-BBEC-B84346459B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2375DDD-0FA8-413B-BBEC-B84346459B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
